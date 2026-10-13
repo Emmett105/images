@@ -3,10 +3,10 @@ dnf:
   exec: dnf5
   packages:
     #beta - still need to set up our own comps
-    - "@ultramarine-plasma-product-environment"
-    - "@ultramarine-plasma-no-flatpak-apps"
-    - ultramarine-release-plasma
-    - ultramarine-release-identity-plasma
+    - "@comrade-os-plasma-product-environment"
+    - "@comrade-os-plasma-no-flatpak-apps"
+    - comrade-os-release-plasma
+    - comrade-os-release-identity-plasma
     - steam
     - prismlauncher 
   exclude:
