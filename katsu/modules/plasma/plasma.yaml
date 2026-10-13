@@ -7,6 +7,8 @@ dnf:
     - "@ultramarine-plasma-no-flatpak-apps"
     - ultramarine-release-plasma
     - ultramarine-release-identity-plasma
+    - steam
+    - prismlauncher 
   exclude:
     - ibus
     - ibus-mozc
